@@ -2,7 +2,7 @@
 
 ## Problem!!!
 
-![](.\Images\Docker Problem.JPG)
+![](https://github.com/KhalidOukssim/Guide/tree/main/Images/Docker Problem.JPG)
 
 Developers used to run the code on their system, it would perfectly . But the same code did not run on the operations team system.
 
@@ -12,7 +12,7 @@ we need an entity  which can "contain" all the software  dependencies,and can be
 
 it is a computer program that performs operating-system-level virtualization, also known as "containerization".
 
-![](.\Images\Docker architecture.JPG)
+![](https://github.com/KhalidOukssim/Guide/tree/main/Images/Docker architecture.JPG)
 
 Application **containerization** is an OS-level virtualization method used to deploy and run distributed applications without launching an entire virtual machine (VM) for each app
 

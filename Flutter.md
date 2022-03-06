@@ -2,7 +2,7 @@
 
 ## Widgets
 
-![](.\Images\materialApp.JPG)
+![](https://github.com/KhalidOukssim/Guide/tree/main/Images/materialApp.JPG)
 
 
 

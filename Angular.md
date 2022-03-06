@@ -7,7 +7,7 @@ ng serve -o
 ng g c about
 ```
 
-![](.\Images\Angular comp.JPG)
+![](https://github.com/KhalidOukssim/Guide/tree/main/Images/Angular comp.JPG)
 
 ## 01 - postCreateComp.component.ts
 
@@ -95,7 +95,7 @@ transform(value:any,args?:any){
 
 ### d - hadow Dom
 
-![](.\Images\shadow Dom.JPG)
+![](https://github.com/KhalidOukssim/Guide/tree/main/Images/shadow Dom.JPG)
 
 ## 03 - Forms
 

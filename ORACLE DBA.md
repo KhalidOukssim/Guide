@@ -6,7 +6,7 @@ OLTP: Online transaction processing
 
 OLAP: Online Analytical Processing
 
-![](.\Images\oltp vs olap.JPG)
+![](https://github.com/KhalidOukssim/Guide/tree/main/Images/oltp vs olap.JPG)
 
 ## 2 - Grid Computing
 
@@ -20,7 +20,7 @@ a way to organize machines in such a way that they can be flexible and accessed
 
 - Apps
 
-  ![](.\Images\ora g11.JPG)
+  ![](https://github.com/KhalidOukssim/Guide/tree/main/Images/ora g11.JPG)
 
   
 
@@ -36,7 +36,7 @@ a way to organize machines in such a way that they can be flexible and accessed
 
   ## 5 - RDBMS Archetecture
 
-  ![](.\Images\RDBMS.JPG)
+  ![](https://github.com/KhalidOukssim/Guide/tree/main/Images/RDBMS.JPG)
 
   
 

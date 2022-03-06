@@ -1,4 +1,4 @@
-![](.\Images\whati is agile.JPG)
+![](https://github.com/KhalidOukssim/Guide/tree/main/Images/whati is agile.JPG)
 
 ## What is Agile?
 
@@ -10,7 +10,7 @@ it works by devising project to *user stories*; so at the end of each week for e
 
 Analysis,design,coding,and testing are continuous activities.
 
-![](.\Images\agile2.JPG)
+![](https://github.com/KhalidOukssim/Guide/tree/main/Images/agile2.JPG)
 
 ## Why Agile!!
 
@@ -20,5 +20,5 @@ Analysis,design,coding,and testing are continuous activities.
 4. building only what is essential
 5. less costs and less waste of time (khessran lfloss la)
 
-![](.\Images\agile3.JPG)
+![](https://github.com/KhalidOukssim/Guide/tree/main/Images/agile3.JPG)
 

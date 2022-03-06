@@ -2,9 +2,9 @@
 
 ### 01 - Intro
 
-![](.\Images\SSH intro.JPG)
+![](https://github.com/KhalidOukssim/Guide/tree/main/Images/SSH intro.JPG)
 
-![](.\Images\SSH into2.JPG)
+![](https://github.com/KhalidOukssim/Guide/tree/main/Images/SSH into2.JPG)
 
 ### SSH Commands
 
@@ -23,4 +23,4 @@ SSH used symetric and Asymetric encryption
 
 ### Hashing
 
-![](.\Images\Hashing principe.JPG)
+![](https://github.com/KhalidOukssim/Guide/tree/main/Images/Hashing principe.JPG)
