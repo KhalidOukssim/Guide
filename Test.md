@@ -4,7 +4,10 @@
 
 there is a lot of programs(The most popular is Jest)
 
-![](https://github.com/KhalidOukssim/Guide/tree/main/Images/Testing programms.JPG)
+<p align="center">
+  <img src="Images/Testing programms.JPG">
+  <br/>
+</p>
 
 
 

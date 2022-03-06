@@ -53,7 +53,9 @@ _AppStart is startup code and initialization of global values like counters and 
 
 Just like _AppStart runs before your site starts, you can write code that runs before any page in each folder in _PageStart.
 
-![](C:\Users\hp\Desktop\MyTutorials\Images\pic_webpages_pagestart.jpg)
+![](C:\Users\hp\Desktop\MyTutorials\Images\pic_webpages_pagestart.JPG">
+  <br/>
+</p>
 
 ### e.Forms
 

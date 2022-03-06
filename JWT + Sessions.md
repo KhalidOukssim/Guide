@@ -1,8 +1,14 @@
 #                                          JWT + Sessions
 
-![](https://github.com/KhalidOukssim/Guide/tree/main/Images/cockies vs tock.JPG)
+<p align="center">
+  <img src="Images/cockies vs tock.JPG">
+  <br/>
+</p>
 
-![](https://github.com/KhalidOukssim/Guide/tree/main/Images/JWT&Redis.JPG)
+<p align="center">
+  <img src="Images/JWT&Redis.JPG">
+  <br/>
+</p>
 
 ## JWT
 

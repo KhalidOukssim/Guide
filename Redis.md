@@ -2,23 +2,35 @@
 
 ## 1-Relational db and noSQL db
 
-![](https://github.com/KhalidOukssim/Guide/tree/main/Images/rel db.JPG)
+<p align="center">
+  <img src="Images/rel db.JPG">
+  <br/>
+</p>
 
 SQL assure the communication between backend and RDB.
 
 it use for relational data(Tables)
 
-![](https://github.com/KhalidOukssim/Guide/tree/main/Images/nosq.JPG)
+<p align="center">
+  <img src="Images/nosq.JPG">
+  <br/>
+</p>
 
 it is for non relational data and huge data =>  LinkedIn
 
 it is very fast because it based on nodes.
 
-![](https://github.com/KhalidOukssim/Guide/tree/main/Images/r vs nr.JPG)
+<p align="center">
+  <img src="Images/r vs nr.JPG">
+  <br/>
+</p>
 
 ## 2-Redis commands
 
-![](https://github.com/KhalidOukssim/Guide/tree/main/Images/redis commands.JPG)
+<p align="center">
+  <img src="Images/redis commands.JPG">
+  <br/>
+</p>
 
 **EXPIRE** **:** you give him time on sec before the data been deleted
 

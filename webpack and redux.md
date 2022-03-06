@@ -33,21 +33,29 @@ componenetDidCatch(error,info){
 }
 ```
 
-![](C:\Users\hp\Desktop\Notes\Images\Critical render path.JPG)
+![](C:\Users\hp\Desktop\Notes\Images\Critical render path.JPG">
+  <br/>
+</p>
 
 # 02 - State Management & Redux
 
 ## 01- sample example of react app components:
 
-![](C:\Users\hp\Desktop\Notes\Images\stateManagement.JPG)
+![](C:\Users\hp\Desktop\Notes\Images\stateManagement.JPG">
+  <br/>
+</p>
 
 ## 02-Redux Solution
 
-![](C:\Users\hp\Desktop\Notes\Images\redux solution.JPG)
+![](C:\Users\hp\Desktop\Notes\Images\redux solution.JPG">
+  <br/>
+</p>
 
 ## 03-redux ===
 
-![](C:\Users\hp\Desktop\Notes\Images\redux equal to.JPG)
+![](C:\Users\hp\Desktop\Notes\Images\redux equal to.JPG">
+  <br/>
+</p>
 
 ## action.js
 

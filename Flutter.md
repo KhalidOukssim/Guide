@@ -2,7 +2,10 @@
 
 ## Widgets
 
-![](https://github.com/KhalidOukssim/Guide/tree/main/Images/materialApp.JPG)
+<p align="center">
+  <img src="Images/materialApp.JPG">
+  <br/>
+</p>
 
 
 
